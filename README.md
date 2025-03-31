@@ -21,8 +21,8 @@ I'm **Aradhya Verma**, an **Aspiring Java Full-Stack Developer** with a passion 
 ---
 
 ### 🌍 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](www.linkedin.com/in/
-aradhya-verma-977330326)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/aradhya-verma-977330326)
+
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)]([https://leetcode.com/u/aradhya_overcodes/])  
 
