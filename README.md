@@ -15,7 +15,7 @@ I'm **Aradhya Verma**, an **Aspiring Java Full-Stack Developer** with a passion 
 ### 🛠 Tech Stack  
 **Languages:** Java ☕ | Python 🐍 | JavaScript 🚀  
 **Web Development:** HTML | CSS | React.js
-**AI/ML:** OpenAI | NLP | Computer Vision  
+**AI/ML:** OpenAI | NLP |HuggingFace | ElevenLabs
 **Tools & Platforms:** Git | GitHub 
 
 ---
