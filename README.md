@@ -1,66 +1,78 @@
-# Aradhya Verma
+# ARADHYA VERMA
 
-**Software Engineer | AI Engineer | B.Tech CSE, 2027**
+**Software Engineer · AI Engineer · Class of 2027**
 
-I build software with a focus on backend engineering, distributed systems, and applied AI. I enjoy solving problems from first principles and understanding the engineering decisions behind reliable, maintainable systems.
+Backend engineering, distributed systems, and applied AI.
 
-[Portfolio](https://aradhya-portfolio-seven.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/verma-aradhya) · [LeetCode](https://leetcode.com/u/aradhya_overcodes) · [Email](mailto:contact.aradhyaverma@gmail.com)
+I enjoy solving problems from first principles and building software that is reliable, maintainable, and designed with care.
+
+<p align="center">
+  <a href="https://leetcode.com/u/aradhya_overcodes">
+    <img src="https://img.shields.io/badge/LEETCODE-GUARDIAN-1F8ACB?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Guardian" />
+  </a>
+  <img src="https://img.shields.io/badge/GLOBAL_RANKING-TOP_0.88%25-161B22?style=for-the-badge" alt="Top 0.88 percent globally" />
+  <img src="https://img.shields.io/badge/PROBLEMS_SOLVED-1200%2B-161B22?style=for-the-badge" alt="1200 plus problems solved" />
+</p>
+
+<p align="center">
+  <a href="https://aradhya-portfolio-seven.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/verma-aradhya">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/aradhya_overcodes">LeetCode</a> &nbsp;·&nbsp;
+  <a href="mailto:contact.aradhyaverma@gmail.com">Email</a>
+</p>
 
 ---
 
-### Experience
+## EXPERIENCE
 
-**TransFi** · Software Engineering Intern
+### TransFi
+**Software Engineering Intern · Fintech**
 
-- Contributed to distributed systems supporting a platform serving 20M+ users and processing over $1B in transaction volume.
-- Worked on KYC/KYB workflows for identity and business verification.
+- Contributed to distributed systems supporting a platform serving **20M+ users** and processing over **$1B in transaction volume**.
+- Worked on **KYC/KYB workflows** for identity and business verification.
 
-**Scaledux** · Backend Engineering Intern
+### Scaledux
+**Backend Engineering Intern**
 
 ---
 
-### Technical Stack
+## TECHNICAL STACK
 
 **Languages**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,ts,js,python,cpp&theme=dark" alt="Programming languages" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,ts,js,python,cpp&theme=dark" alt="Java, TypeScript, JavaScript, Python, C++" />
 </p>
 
-**Backend & Databases**
+**Backend & Data**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,postgres,redis,mongodb,prisma&theme=dark" alt="Backend frameworks and databases" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,postgres,redis,mongodb,prisma&theme=dark" alt="Backend frameworks and data technologies" />
 </p>
 
 **Frontend & Infrastructure**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,docker,git,github,linux,postman,aws,vercel&theme=dark" alt="Frontend and infrastructure tools" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,docker,git,github,linux,postman,aws,vercel&theme=dark" alt="Frontend, infrastructure and developer tools" />
 </p>
 
-**AI & Machine Learning**
+**AI Engineering & Developer Tools**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="Machine learning tools" />
-  <br/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="TensorFlow and OpenCV" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logoColor=white" alt="FAISS" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
 </p>
 
 ---
 
-### GitHub Statistics
+## GITHUB ACTIVITY
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=aradhyaxd-git&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aradhyaxd-git&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Most used programming languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aradhyaxd-git&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aradhyaxd-git&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Most used languages" />
 </p>
 
----
-
 <p align="center">
-  <sub>1,200+ problems solved on LeetCode</sub>
+  <sub>First principles. Thoughtful engineering. Continuous improvement.</sub>
 </p>
