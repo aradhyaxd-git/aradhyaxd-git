@@ -1,10 +1,8 @@
 # Aradhya Verma
 
-**Software Engineer | AI Engineer | Class of 2027**
+**Software Engineer | AI Engineer | B.Tech CSE, 2027**
 
-I enjoy understanding how systems work, solving problems from first principles, and building software that is reliable and maintainable.
-
-Currently focused on backend engineering, distributed systems, applied AI, and system design. Solved **1,200+ problems on LeetCode**.
+I build software with a focus on backend engineering, distributed systems, and applied AI. I enjoy solving problems from first principles and understanding the engineering decisions behind reliable, maintainable systems.
 
 [Portfolio](https://aradhya-portfolio-seven.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/verma-aradhya) · [LeetCode](https://leetcode.com/u/aradhya_overcodes) · [Email](mailto:contact.aradhyaverma@gmail.com)
 
@@ -14,29 +12,42 @@ Currently focused on backend engineering, distributed systems, applied AI, and s
 
 **TransFi** · Software Engineering Intern
 
-- Contributed to distributed systems supporting a platform with **20M+ users** and over **$1B in transaction volume**.
+- Contributed to distributed systems supporting a platform serving 20M+ users and processing over $1B in transaction volume.
 - Worked on KYC/KYB workflows for identity and business verification.
 
 **Scaledux** · Backend Engineering Intern
 
 ---
 
-### Tech Stack
+### Technical Stack
+
+**Languages**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp&theme=dark" alt="Programming languages" />
+  <img src="https://skillicons.dev/icons?i=java,ts,js,python,cpp&theme=dark" alt="Programming languages" />
 </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,react,nextjs&theme=dark" alt="Frameworks and libraries" />
-</p>
+**Backend & Databases**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,firebase,docker,git,github,linux,postman&theme=dark" alt="Databases and developer tools" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,postgres,redis,mongodb,prisma&theme=dark" alt="Backend frameworks and databases" />
 </p>
 
+**Frontend & Infrastructure**
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,aws,vercel&theme=dark" alt="AI and cloud tools" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,docker,git,github,linux,postman,aws,vercel&theme=dark" alt="Frontend and infrastructure tools" />
+</p>
+
+**AI & Machine Learning**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="Machine learning tools" />
+  <br/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logoColor=white" alt="FAISS" />
 </p>
 
 ---
@@ -45,9 +56,11 @@ Currently focused on backend engineering, distributed systems, applied AI, and s
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=aradhyaxd-git&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aradhyaxd-git&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Language statistics" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aradhyaxd-git&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Most used programming languages" />
 </p>
 
+---
+
 <p align="center">
-  <sub>Understand the problem. Build the solution. Know why it works.</sub>
+  <sub>1,200+ problems solved on LeetCode</sub>
 </p>
